@@ -1,4 +1,4 @@
-# 🚀 AlgoZenith Chat Bot Chrome Extension
+# 🚀 AI Chat Bot Chrome Extension
 
 The **AlgoZenith Chat Bot Chrome Extension** transforms how you solve coding problems with AI.  
 Whether you’re **debugging code**, **exploring hints**, or **seeking editorial explanations**, this bot is your **personal coding mentor**—right inside the **AlgoZenith** website.
